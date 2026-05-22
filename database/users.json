@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "6a1058c5b916c230ebb38341",
+    "name": "Jackson",
+    "email": "jackson.k.woo@student.uts.edu.au",
+    "role": "user",
+    "createdAt": "2026-05-22T13:23:17.642Z",
+    "updatedAt": "2026-05-22T13:23:17.642Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10593ce0851d095d54b00b",
+    "name": "Admin",
+    "email": "admin@shopease.com",
+    "role": "admin",
+    "createdAt": "2026-05-22T13:25:16.720Z",
+    "updatedAt": "2026-05-22T13:25:16.720Z",
+    "__v": 0
+  }
+]

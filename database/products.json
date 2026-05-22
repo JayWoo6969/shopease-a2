@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "6a10587d4c35081f03ecbe15",
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "description": "Premium sound quality with 30-hour battery life.",
+    "stock": 15,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  },
+  {
+    "_id": "6a10587d4c35081f03ecbe16",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 64.99,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+    "description": "Tactile switches with RGB backlight.",
+    "stock": 22,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  },
+  {
+    "_id": "6a10587d4c35081f03ecbe17",
+    "name": "Running Sneakers",
+    "category": "Footwear",
+    "price": 74.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "description": "Lightweight with responsive foam cushioning.",
+    "stock": 30,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  },
+  {
+    "_id": "6a10587d4c35081f03ecbe18",
+    "name": "Minimalist Backpack",
+    "category": "Bags",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+    "description": "Water-resistant 20L with laptop compartment.",
+    "stock": 18,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  },
+  {
+    "_id": "6a10587d4c35081f03ecbe19",
+    "name": "Water Bottle",
+    "category": "Lifestyle",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+    "description": "Keeps drinks cold 24h or hot 12h.",
+    "stock": 50,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  },
+  {
+    "_id": "6a10587d4c35081f03ecbe1a",
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "description": "Non-slip 6mm thick mat with carry strap.",
+    "stock": 25,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  },
+  {
+    "_id": "6a10587d4c35081f03ecbe1b",
+    "name": "Pringles Can",
+    "category": "Food",
+    "price": 4.99,
+    "image": "/images/pringles.jpg",
+    "description": "Once you pop you can't stop. Original flavour.",
+    "stock": 100,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  },
+  {
+    "_id": "6a10587d4c35081f03ecbe1c",
+    "name": "Rubber Gloves",
+    "category": "Kitchen",
+    "price": 6.99,
+    "image": "/images/glove.jpg",
+    "description": "Heavy duty latex gloves for cleaning and washing.",
+    "stock": 60,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  },
+  {
+    "_id": "6a10587d4c35081f03ecbe1d",
+    "name": "Kitchen Sponge",
+    "category": "Kitchen",
+    "price": 3.99,
+    "image": "/images/sponge.jpg",
+    "description": "Dual-sided sponge for tough grease and delicate surfaces.",
+    "stock": 200,
+    "__v": 0,
+    "createdAt": "2026-05-22T13:22:05.484Z",
+    "updatedAt": "2026-05-22T13:22:05.484Z"
+  }
+]

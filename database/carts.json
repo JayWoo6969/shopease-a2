@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6a1058d4b916c230ebb38348",
+    "sessionId": "default",
+    "items": [
+      {
+        "product": "6a10587d4c35081f03ecbe17",
+        "quantity": 1,
+        "_id": "6a1058d4b916c230ebb38349"
+      }
+    ],
+    "createdAt": "2026-05-22T13:23:32.437Z",
+    "updatedAt": "2026-05-22T13:23:32.437Z",
+    "__v": 0
+  }
+]
